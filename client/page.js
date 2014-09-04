@@ -1,0 +1,4 @@
+Template.page.events({
+
+});
+
