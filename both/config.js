@@ -1,0 +1,3 @@
+AntiEntry.config();
+
+
