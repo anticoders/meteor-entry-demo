@@ -7,3 +7,7 @@ standard-app-packages
 
 anti:fake
 anti:entry
+
+iron:router
+
+

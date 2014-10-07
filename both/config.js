@@ -1,3 +1,5 @@
-AntiEntry.config();
+AntiEntry.config({
+  verifyEmail: true,
+});
 
 
